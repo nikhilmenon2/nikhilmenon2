@@ -34,7 +34,7 @@
 
 #### Thank You-🙏🏼
 
-⭐️ From [Nick Menon](https://github.com/nikhilmenon2)
+⭐️ [Nick Menon](https://github.com/nikhilmenon2)
 
 [AngelList]: https://angel.co/u/nickmenon
 [Linkedin]:https://www.linkedin.com/in/nickmenon
