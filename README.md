@@ -32,7 +32,7 @@
 
 <br>
 
-#### Thank You-🙏🏼
+#### Thank You
 
 ⭐️ [Nick Menon](https://github.com/nikhilmenon2)
 
