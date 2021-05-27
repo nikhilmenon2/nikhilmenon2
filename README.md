@@ -16,7 +16,7 @@
 
 ### I am a recent Full Stack Engineer Graduate from AppAcademy Looking For a Full Time Role
 - 🔭 I’m currently working on my Portfolio Website :grin:
-- 🌱 I’m currently learning more on Django and MongoDB.
+- 🌱 I’m currently learning more on MongoDB.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2021 Goals: Get Hired :raised_hands:
 - 💬 Ask me about anything, I am happy to help :smile:
