@@ -14,7 +14,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a recent Full Stack Engineer Graduate from AppAcademy Looking For a Full Time Role
+### I am a recent Full Stack Engineer Graduate from AppAcademy
 - 🔭 I’m currently working on my Portfolio Website :grin:
 - 🌱 I’m currently learning more on Django.
 - 👯 I’m looking to collaborate with other Developers :wink:
