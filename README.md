@@ -18,7 +18,7 @@
 - 🔭 I’m currently working at T- Mobile
 - 🌱 I’m currently learning more on Conversational AI.
 - 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2021 Goals: Learn!
+- 🥅 Goals: Learn More!
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and push the bounds, also learning new things
