@@ -1,6 +1,6 @@
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
-  <h1 align="center"><b>Hello there, I'm Nick 👋</b></h1>
+  <h1 align="center"><b>Hello there, I'm Nikhil 👋</b></h1>
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 
 #### Thank You
 
-⭐️ [Nick Menon](https://github.com/nikhilmenon2)
+⭐️ [Nikhil Menon](https://github.com/nikhilmenon2)
 
 [AngelList]: https://angel.co/u/nickmenon
 [Linkedin]:https://www.linkedin.com/in/nickmenon
