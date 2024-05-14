@@ -14,10 +14,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Software Engineer working with Artificial Intelligence and Machine Learning
-- 🔭 I’m currently working at T- Mobile
-- 🌱 I’m currently learning more on Conversational AI.
-- 👯 I’m looking to collaborate with other Developers :wink:
+### Technical Product Manager
 - 🥅 Goals: Learn More!
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
