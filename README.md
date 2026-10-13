@@ -1,33 +1,22 @@
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
-<p>
-  <h1 align="center"><b>Hello there, I'm Nikhil 👋</b></h1>
-</p>
+# Hey, I'm Nikhil 👋
 
-<p align="center">
-<br>
 
-<a href="https://www.linkedin.com/in/nickmenon/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:nikhilmenon1234@gmail.com?subject=Hola%20Nick"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-</p>
+**Principal Product Manager. Engineer at heart.**
 
-<br>
+I started my career in engineering, moved into software development and found my way into product management. I've always liked being close to the technical side of things, whether that's understanding how something works, figuring out why it doesn't, or building a better way to do it.
 
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+These days, I work on enterprise software, AI, and product strategy. I spend a lot of time thinking about what we should build, but I still enjoy getting into the code and working through the technical details.
 
-### Technical Product Manager
-- 🥅 Goals: Learn More!
-- 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
-- 🧗 I try to: Go beyond and push the bounds, also learning new things
-- ⚡ Fun fact: I love traveling, and have been to over 15 countries! :raised_hands:
+This is where I keep my personal projects, experiments, and whatever else I find interesting enough to build.
 
-<br>
+### Outside of work
 
-<br>
+I'm a big fan of traveling, exploring new places, and finding good food along the way. I've visited over 40 countries so far, and the list keeps growing.
 
-#### Thank You
+### Find me elsewhere
 
-⭐️ [Nikhil Menon](https://github.com/nikhilmenon2)
+[LinkedIn](https://www.linkedin.com/in/nickmenon/) | [Email](mailto:nikhilmenon1234@gmail.com)
 
-[AngelList]: https://angel.co/u/nickmenon
-[Linkedin]:https://www.linkedin.com/in/nickmenon
+---
+
+[![Matrix Animation](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
